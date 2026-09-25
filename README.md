@@ -1,4 +1,5 @@
 # Chronic Kidney Disease: Missingness, Bias und Modellvergleich
+![CKD-Projekt: Missingness, Bias und Modellvergleich](bingo.png)
 
 Dieses Projekt untersucht die Klassifikation einer chronischen Nierenerkrankung
 mit besonderem Blick auf fehlende Werte. Die zentrale Beobachtung lautet:
