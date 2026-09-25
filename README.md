@@ -7,7 +7,7 @@ daher neben medizinischen Zusammenhängen auch das Dokumentationsmuster lernen.
 
 ## Dateien
 
-- `01_Data_Exploration.ipynb`: ursprünglicher Arbeits- und Explorationsweg
+- `01_Data_Exploration.ipynb`: mein persönlicher (chaotischer) ursprünglicher Arbeits- und Explorationsweg
 - `CKD_Storytelling_Report.ipynb`: vollständiger Analysebericht
 - `CKD_Storytelling_Report.html`: direkt lesbare, ausgeführte Report-Version
 - `ckd_report_functions.py`: wiederverwendbare Funktionen
